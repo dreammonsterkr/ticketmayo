@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ticketmayo/static/css/main.b066615a.chunk.css",
+    "main.js": "/ticketmayo/static/js/main.d927553d.chunk.js",
+    "main.js.map": "/ticketmayo/static/js/main.d927553d.chunk.js.map",
+    "runtime-main.js": "/ticketmayo/static/js/runtime-main.559980a0.js",
+    "runtime-main.js.map": "/ticketmayo/static/js/runtime-main.559980a0.js.map",
+    "static/js/2.b6a3aeba.chunk.js": "/ticketmayo/static/js/2.b6a3aeba.chunk.js",
+    "static/js/2.b6a3aeba.chunk.js.map": "/ticketmayo/static/js/2.b6a3aeba.chunk.js.map",
+    "index.html": "/ticketmayo/index.html",
+    "precache-manifest.b5b6372e57525069466d8a61f9b43cb0.js": "/ticketmayo/precache-manifest.b5b6372e57525069466d8a61f9b43cb0.js",
+    "service-worker.js": "/ticketmayo/service-worker.js",
+    "static/css/main.b066615a.chunk.css.map": "/ticketmayo/static/css/main.b066615a.chunk.css.map",
+    "static/js/2.b6a3aeba.chunk.js.LICENSE.txt": "/ticketmayo/static/js/2.b6a3aeba.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/ticketmayo/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/ticketmayo/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/ticketmayo/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/ticketmayo/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/sample.zip": "/ticketmayo/static/media/sample.402b8fcd.zip"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.559980a0.js",
+    "static/js/2.b6a3aeba.chunk.js",
+    "static/css/main.b066615a.chunk.css",
+    "static/js/main.d927553d.chunk.js"
+  ]
+}
