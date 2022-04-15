@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ticketmayo/static/css/main.b066615a.chunk.css",
-    "main.js": "/ticketmayo/static/js/main.a8261f12.chunk.js",
-    "main.js.map": "/ticketmayo/static/js/main.a8261f12.chunk.js.map",
-    "runtime-main.js": "/ticketmayo/static/js/runtime-main.9faadb0b.js",
-    "runtime-main.js.map": "/ticketmayo/static/js/runtime-main.9faadb0b.js.map",
-    "static/js/2.03045b67.chunk.js": "/ticketmayo/static/js/2.03045b67.chunk.js",
-    "static/js/2.03045b67.chunk.js.map": "/ticketmayo/static/js/2.03045b67.chunk.js.map",
-    "index.html": "/ticketmayo/index.html",
-    "precache-manifest.af2d844e5235ad1edf180298fbfcbe2f.js": "/ticketmayo/precache-manifest.af2d844e5235ad1edf180298fbfcbe2f.js",
-    "service-worker.js": "/ticketmayo/service-worker.js",
-    "static/css/main.b066615a.chunk.css.map": "/ticketmayo/static/css/main.b066615a.chunk.css.map",
-    "static/js/2.03045b67.chunk.js.LICENSE.txt": "/ticketmayo/static/js/2.03045b67.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/ticketmayo/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/ticketmayo/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/ticketmayo/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/ticketmayo/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/sample.zip": "/ticketmayo/static/media/sample.402b8fcd.zip"
+    "main.css": "/static/css/main.f3e7ae4d.chunk.css",
+    "main.js": "/static/js/main.63602a20.chunk.js",
+    "main.js.map": "/static/js/main.63602a20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.430c473d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.430c473d.js.map",
+    "static/js/2.03045b67.chunk.js": "/static/js/2.03045b67.chunk.js",
+    "static/js/2.03045b67.chunk.js.map": "/static/js/2.03045b67.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.34db9290e3722ed94621b15e4f4c465f.js": "/precache-manifest.34db9290e3722ed94621b15e4f4c465f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f3e7ae4d.chunk.css.map": "/static/css/main.f3e7ae4d.chunk.css.map",
+    "static/js/2.03045b67.chunk.js.LICENSE.txt": "/static/js/2.03045b67.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/sample.zip": "/static/media/sample.402b8fcd.zip"
   },
   "entrypoints": [
-    "static/js/runtime-main.9faadb0b.js",
+    "static/js/runtime-main.430c473d.js",
     "static/js/2.03045b67.chunk.js",
-    "static/css/main.b066615a.chunk.css",
-    "static/js/main.a8261f12.chunk.js"
+    "static/css/main.f3e7ae4d.chunk.css",
+    "static/js/main.63602a20.chunk.js"
   ]
 }
