@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ticketmayo/static/css/main.b066615a.chunk.css",
-    "main.js": "/ticketmayo/static/js/main.a8261f12.chunk.js",
-    "main.js.map": "/ticketmayo/static/js/main.a8261f12.chunk.js.map",
+    "main.js": "/ticketmayo/static/js/main.ba4858b5.chunk.js",
+    "main.js.map": "/ticketmayo/static/js/main.ba4858b5.chunk.js.map",
     "runtime-main.js": "/ticketmayo/static/js/runtime-main.9faadb0b.js",
     "runtime-main.js.map": "/ticketmayo/static/js/runtime-main.9faadb0b.js.map",
     "static/js/2.03045b67.chunk.js": "/ticketmayo/static/js/2.03045b67.chunk.js",
     "static/js/2.03045b67.chunk.js.map": "/ticketmayo/static/js/2.03045b67.chunk.js.map",
     "index.html": "/ticketmayo/index.html",
-    "precache-manifest.af2d844e5235ad1edf180298fbfcbe2f.js": "/ticketmayo/precache-manifest.af2d844e5235ad1edf180298fbfcbe2f.js",
+    "precache-manifest.d13a242413b34b6fa3f78fcedc730c6a.js": "/ticketmayo/precache-manifest.d13a242413b34b6fa3f78fcedc730c6a.js",
     "service-worker.js": "/ticketmayo/service-worker.js",
     "static/css/main.b066615a.chunk.css.map": "/ticketmayo/static/css/main.b066615a.chunk.css.map",
     "static/js/2.03045b67.chunk.js.LICENSE.txt": "/ticketmayo/static/js/2.03045b67.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.9faadb0b.js",
     "static/js/2.03045b67.chunk.js",
     "static/css/main.b066615a.chunk.css",
-    "static/js/main.a8261f12.chunk.js"
+    "static/js/main.ba4858b5.chunk.js"
   ]
 }
