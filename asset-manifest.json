@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ticketmayo/static/css/main.b066615a.chunk.css",
-    "main.js": "/ticketmayo/static/js/main.ba4858b5.chunk.js",
-    "main.js.map": "/ticketmayo/static/js/main.ba4858b5.chunk.js.map",
+    "main.js": "/ticketmayo/static/js/main.2af620d3.chunk.js",
+    "main.js.map": "/ticketmayo/static/js/main.2af620d3.chunk.js.map",
     "runtime-main.js": "/ticketmayo/static/js/runtime-main.9faadb0b.js",
     "runtime-main.js.map": "/ticketmayo/static/js/runtime-main.9faadb0b.js.map",
-    "static/js/2.03045b67.chunk.js": "/ticketmayo/static/js/2.03045b67.chunk.js",
-    "static/js/2.03045b67.chunk.js.map": "/ticketmayo/static/js/2.03045b67.chunk.js.map",
+    "static/js/2.ea0ca432.chunk.js": "/ticketmayo/static/js/2.ea0ca432.chunk.js",
+    "static/js/2.ea0ca432.chunk.js.map": "/ticketmayo/static/js/2.ea0ca432.chunk.js.map",
     "index.html": "/ticketmayo/index.html",
-    "precache-manifest.d13a242413b34b6fa3f78fcedc730c6a.js": "/ticketmayo/precache-manifest.d13a242413b34b6fa3f78fcedc730c6a.js",
+    "precache-manifest.587462dbbff3b443f9dde1e05906d17c.js": "/ticketmayo/precache-manifest.587462dbbff3b443f9dde1e05906d17c.js",
     "service-worker.js": "/ticketmayo/service-worker.js",
     "static/css/main.b066615a.chunk.css.map": "/ticketmayo/static/css/main.b066615a.chunk.css.map",
-    "static/js/2.03045b67.chunk.js.LICENSE.txt": "/ticketmayo/static/js/2.03045b67.chunk.js.LICENSE.txt",
+    "static/js/2.ea0ca432.chunk.js.LICENSE.txt": "/ticketmayo/static/js/2.ea0ca432.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/ticketmayo/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/ticketmayo/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/ticketmayo/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9faadb0b.js",
-    "static/js/2.03045b67.chunk.js",
+    "static/js/2.ea0ca432.chunk.js",
     "static/css/main.b066615a.chunk.css",
-    "static/js/main.ba4858b5.chunk.js"
+    "static/js/main.2af620d3.chunk.js"
   ]
 }
