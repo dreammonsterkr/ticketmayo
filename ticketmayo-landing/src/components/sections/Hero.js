@@ -69,7 +69,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile onClick={saveFile}>
                     프로그램 다운로드
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="dark" wideMobile href="https://stellar-guppy-450.notion.site/281984e4d6ab4e748c0332271eeef43f">
                     사용방법 보기
                   </Button>
                 </ButtonGroup>

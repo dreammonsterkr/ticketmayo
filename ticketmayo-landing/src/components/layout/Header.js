@@ -115,7 +115,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <a href="https://litt.ly/ticketmayo" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>문의하기</a>
+                        <a href="https://open.kakao.com/o/sJDJ2Fbe" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>문의하기</a>
                       </li>
                     </ul>}
                 </div>

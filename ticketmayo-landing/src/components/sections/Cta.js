@@ -57,7 +57,7 @@ const Cta = ({
               </h3>
           </div>
           <div className="cta-action">
-            <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+            <Button tag="a" color="dark" wideMobile href="https://open.kakao.com/o/sJDJ2Fbe">
               카카오 문의
             </Button>
           </div>
