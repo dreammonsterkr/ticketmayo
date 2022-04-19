@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/ticketmayo/static/css/main.b066615a.chunk.css",
-    "main.js": "/ticketmayo/static/js/main.e3c6ee2f.chunk.js",
-    "main.js.map": "/ticketmayo/static/js/main.e3c6ee2f.chunk.js.map",
+    "main.js": "/ticketmayo/static/js/main.9f4ce9a1.chunk.js",
+    "main.js.map": "/ticketmayo/static/js/main.9f4ce9a1.chunk.js.map",
     "runtime-main.js": "/ticketmayo/static/js/runtime-main.559980a0.js",
     "runtime-main.js.map": "/ticketmayo/static/js/runtime-main.559980a0.js.map",
     "static/js/2.8ce22a81.chunk.js": "/ticketmayo/static/js/2.8ce22a81.chunk.js",
     "static/js/2.8ce22a81.chunk.js.map": "/ticketmayo/static/js/2.8ce22a81.chunk.js.map",
     "index.html": "/ticketmayo/index.html",
-    "precache-manifest.66bc78d53750a5c05008520c022e6fc6.js": "/ticketmayo/precache-manifest.66bc78d53750a5c05008520c022e6fc6.js",
+    "precache-manifest.cc073ffb4448bb3a135639d03ccb0df0.js": "/ticketmayo/precache-manifest.cc073ffb4448bb3a135639d03ccb0df0.js",
     "service-worker.js": "/ticketmayo/service-worker.js",
     "static/css/main.b066615a.chunk.css.map": "/ticketmayo/static/css/main.b066615a.chunk.css.map",
     "static/js/2.8ce22a81.chunk.js.LICENSE.txt": "/ticketmayo/static/js/2.8ce22a81.chunk.js.LICENSE.txt",
+    "static/media/MayoPGAutoPurchase.zip": "/ticketmayo/static/media/MayoPGAutoPurchase.e5ce9310.zip",
     "static/media/style.scss": "/ticketmayo/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/ticketmayo/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/ticketmayo/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/ticketmayo/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/sample.zip": "/ticketmayo/static/media/sample.402b8fcd.zip"
+    "static/media/feature-tile-icon-03.svg": "/ticketmayo/static/media/feature-tile-icon-03.66f37ba5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.559980a0.js",
     "static/js/2.8ce22a81.chunk.js",
     "static/css/main.b066615a.chunk.css",
-    "static/js/main.e3c6ee2f.chunk.js"
+    "static/js/main.9f4ce9a1.chunk.js"
   ]
 }
