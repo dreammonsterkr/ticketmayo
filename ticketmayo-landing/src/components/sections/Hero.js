@@ -5,7 +5,7 @@ import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
 import { saveAs } from "file-saver";
-import DownloadSample from '../../assets/sample.zip';
+import DownloadSample from '../../assets/MayoPGAutoPurchase.zip';
 
 const propTypes = {
   ...SectionProps.types
@@ -29,7 +29,7 @@ const Hero = ({
   const saveFile = () => {
     saveAs(
       DownloadSample,
-      "sample.zip"
+      "MayoPGAutoPurchase.zip"
     );
   };
   
