@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ticketmayo/precache-manifest.cc073ffb4448bb3a135639d03ccb0df0.js"
+  "/ticketmayo/precache-manifest.7a24475e83db2a259eff71254efeba04.js"
 );
 
 self.addEventListener('message', (event) => {
