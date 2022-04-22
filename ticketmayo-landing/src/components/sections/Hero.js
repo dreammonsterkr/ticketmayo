@@ -4,8 +4,7 @@ import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
-import { saveAs } from "file-saver";
-import DownloadSample from '../../assets/MayoPGAutoPurchase.zip';
+import ReactPlayer from 'react-player'
 
 const propTypes = {
   ...SectionProps.types
@@ -26,13 +25,7 @@ const Hero = ({
   ...props
 }) => {
   
-  const saveFile = () => {
-    saveAs(
-      DownloadSample,
-      "MayoPGAutoPurchase.zip"
-    );
-  };
-  
+
   const outerClasses = classNames(
     'hero section center-content',
     topOuterDivider && 'has-top-divider',
@@ -66,7 +59,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile onClick={saveFile}>
+                  <Button tag="a" color="primary" wideMobile href="https://open.kakao.com/o/sJDJ2Fbe">
                     프로그램 다운로드
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://stellar-guppy-450.notion.site/281984e4d6ab4e748c0332271eeef43f">
@@ -85,6 +78,11 @@ const Hero = ({
                 height={504} />
             
           </div>
+
+          <div style={{margin: 20, alignItems: 'center', justifyContent: 'center', marginTop: 50}}>
+            <ReactPlayer url='https://youtu.be/wY44dHGsMPs' controls={true} width={'100%'} style={{alignItems: 'center', justifyContent: 'center', margin: 'auto'}} />
+          </div>
+
         </div>
       </div>
     </section>

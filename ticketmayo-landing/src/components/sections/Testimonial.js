@@ -62,11 +62,11 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — 덕분에 이번 XBOX Series X 구매 했습니다. 예약 걸어두고 회사 갔다오니 구매완료 되어 재밌게 게임중입니다.
+                    — 덕분에 이번 엑시스 엑스 구매 했습니다. 예약 걸어두고 회사 갔다오니 구매완료 되어 재밌게 게임중입니다.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">라이트 유저</span>
+                  <span className="testimonial-item-name text-color-high">3월 구매</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
                     <a href="#0">김*곤</a>
@@ -79,11 +79,11 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — 3월에 구매 성공했습니다. ㅠㅠ 4월에 오픈하는 엑박 X 친구 선물 위해 한번 더 도전합니다.
+                    — 3월에 구매 성공했습니다. ㅠㅠ 감사합니다!ㅋㅋ 엑박 뿐만 아니라 일반 제품 구매 할때도 종종 사용해서 편하네요 ㅋㅋ.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">라이트 유저</span>
+                  <span className="testimonial-item-name text-color-high">3월 구매</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
                     <a href="#0">정*호</a>
@@ -96,11 +96,11 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — 실패할까봐 프리미엄으로 3개 동시에 돌렸는데 3개 중 1개 성공이네요.<br/> 다른 프로그램보다 사용법도 간단하고 빨라서 아주 만족!! 
+                    — 실패할까봐 조마조마 했는데 3개 중 1개 성공이네요. 다른 프로그램보다 사용법도 간단하고 빨라서 아주 만족!! 
                     </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">프리미엄 유저</span>
+                  <span className="testimonial-item-name text-color-high">3월 구매</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
                     <a href="#0">김*언</a>

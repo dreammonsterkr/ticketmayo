@@ -4,6 +4,8 @@ import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
 
+import styled from './App.css';
+
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
 
@@ -36,7 +38,7 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute style={styled} exact path="/" component={Home} layout={LayoutDefault} />
         </Switch>
       )} />
   );

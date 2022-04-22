@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: '확장 준비중인 서비스',
-    paragraph: '게임뿐만 아니라 공연 예매 서비스도 준비하고 있습니다.'
+    title: '3배 더 빠르고 3배 더 강하다 ',
+    paragraph: '3개의 프로그램이 동시에 실행되어 더 빠르게 구매'
   };
 
   return (
@@ -71,11 +71,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    XBOX Series X/S
+                    3배 빠른 속도
                     </h4>
                   <p className="m-0 text-sm">
-                    빠르게 정가로 구매<br/>
-                    더 이상의 오버페이는 없다.
+                  3개의 프로그램이 동시에<br/>
+                  구매 시도하여 성공 확률 Up!
                     </p>
                 </div>
               </div>
@@ -94,11 +94,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    공연
+                    쉬운 사용법
                     </h4>
                   <p className="m-0 text-sm">
-                    항상 매진하는 공연<br/>
-                    걱정없이 예매하자.
+                  누구나 성공 가능<br/>
+                  너무 쉬운 사용법
                     </p>
                 </div>
               </div>
@@ -117,11 +117,34 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    콘서트
+                    빠르고 쉽게
                     </h4>
                   <p className="m-0 text-sm">
-                    내한공연, 아이돌, 트로트<br/>
-                    대기하지 말고 바로 예매하자.
+                  빠른속도 원클릭으로<br/>
+                  Easy &amp; Fast
+                    </p>
+                </div>
+              </div>
+            </div>
+
+            <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image mb-16">
+                    <Image
+                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
+                      alt="Features tile icon 03"
+                      width={64}
+                      height={64} />
+                  </div>
+                </div>
+                <div className="features-tiles-item-content">
+                  <h4 className="mt-0 mb-8">
+                    개인정보 불필요
+                    </h4>
+                  <p className="m-0 text-sm">
+                  개인정보<br/>
+                  유출 걱정 No
                     </p>
                 </div>
               </div>
